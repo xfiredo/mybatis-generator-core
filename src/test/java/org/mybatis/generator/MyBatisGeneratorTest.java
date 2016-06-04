@@ -46,6 +46,8 @@ public class MyBatisGeneratorTest {
         }
     }
 
+
+    /*
     @Test(expected=InvalidConfigurationException.class)
     public void testGenerateIbatis2() throws Exception {
         List<String> warnings = new ArrayList<String>();
@@ -62,4 +64,6 @@ public class MyBatisGeneratorTest {
             throw e;
         }
     }
+
+    */
 }
